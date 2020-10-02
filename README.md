@@ -12,9 +12,9 @@ For more details on Springboard, see [jekyll-springboard](https://github.com/gar
 
 #### Setting up the container for the first time
 
-0. Install toolbox (if you haven't already — it's preinstalled with Silverblue):
+1. Install toolbox (if you haven't already — it's pre-installed with Silverblue):
    `sudo dnf install toolbox`
-1. Create the container and install the dependencies with:
+2. Create the container and install the dependencies with:
    `_scripts/toolbox-create`
 
 #### Running the Jekyll server locally
